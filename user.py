@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """ 
-User class
+User class v
 """
 
 class User():
